@@ -10,3 +10,7 @@ h1 {
 .jumbotron p {
   text-align: center;
 }
+
+h3 {
+  background-color: rgb(161, 76, 223);
+}
